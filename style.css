@@ -1,0 +1,23 @@
+.maincontent{
+    width: 500px;
+    height: 500px;
+    background-color: rosybrown;
+}
+.Rodla{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+.Sultana{
+    width: 200px;
+    height: 200px;
+    background-color: red; 
+}
+.city{
+    width: 5000px;
+    height: 50px;
+    background-color: red; 
+    padding: 20px;
+    margin: 20px;
+    
+}
