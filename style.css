@@ -1,1 +1,29 @@
-.
+
+.maincontent{
+    width: 700px;
+    height: 800px;
+    background-color: brown;
+    border: 3px solid black;
+    display: flex;
+}
+.left{
+    width: 200px;
+    height: 150px;
+    background-color: blue;
+    
+    
+}
+.right{
+    width: 200px;
+    height: 150px;
+    background-color: aqua;
+    
+}
+.meddle{
+    width: 200px;
+    height: 150px;
+    background-color: red;
+    
+
+}
+
